@@ -6,5 +6,6 @@ public class Main {
 		System.out.println("이규호");
 		World.run();
 		World.run2();
+		
 	}
 }
